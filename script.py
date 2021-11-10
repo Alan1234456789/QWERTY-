@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """<b>Hey {} !</b>
 
-<b><i>I'm An Auto Filter bot Created For @Moviejunction_Group 🔥
+<b><i>I'm An Auto Filter bot Created For @Malloo_Pedia 🔥
 
 Click /Help To Know More...! 🙊</b></i>"""
 
@@ -13,9 +13,9 @@ Click /Help To Know More...! 🙊</b></i>"""
 Created For @MalluPedia_G 😉</b></i>"""
 
 
-    ABOUT_MSG = """⭕️<b> My Name : @MalluPedia_Seriesbot</b>
+    ABOUT_MSG = """⭕️<b> My Name : @MalluPedia_bot</b>
     
-⭕️ <b>Creater :</b> @MasterOfTG
+⭕️ <b>Creater :</b> ALAN
 
 ⭕️ <b>Language : </b> <code>Python3</code>
 
